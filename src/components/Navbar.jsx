@@ -46,7 +46,7 @@ const Navbar = () => {
               letterSpacing={"widest"}
               fontFamily={"mono"}
             >
-              NETFLEX
+              SHOWVIBE
             </Box>
           </Link>
 
